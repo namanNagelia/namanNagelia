@@ -1,19 +1,3 @@
-<h2 align="center">💫 About Me:</h2>
-<h3 align="center">Hello, World! 👋 I'm Naman Nagelia</h3>
-
-<p align="center">
-  <br>About Me 📚<br>
-  I'm a passionate Software Engineer and App Developer currently exploring the realms of data analytics, full-stack development, and AI-driven technologies. I am fueled by my goal to innovate.<br>
-  - 🎓 Studying at the University of Maryland<br>
-  - 🏀 Sports Fanatic<br>
-  <br><br>
-  🚀 My Projects<br><br>
-  <strong>BackBoardStats</strong> - A statistics platform revolutionizing how we visualize advanced player analytics in the NBA. I founded this project to cater to a growing user base eager for real-time data and interactive analytics, alongside betting models and predictions. Check it out <a href="www.backboardstats.com">here</a>.<br><br>
-  <strong>Tutor Nova</strong> - An innovative iOS app designed to bridge the gap between students and student tutors at universities. App Coming soon!<br><br><br>
-  📫 Connect With Me<br><br>
-  Let's make something amazing together. You can reach me at <a href="https://www.linkedin.com/in/naman-nagelia/">LinkedIn</a> or shoot me an email at nagelia.naman@gmail.com.<br><br>
-  Thank you for stopping by my GitHub. Stay tuned for more projects and updates!<br>
-</p>
 
 
 ## 🌐 Socials:
