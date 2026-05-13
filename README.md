@@ -61,13 +61,4 @@
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 
-# 🚀 My Contributions
-
-I build full-stack, machine learning, and mobile applications focused on scalable backend systems, modern frontend experiences, and applied AI.
-
-### Areas I Work In
-- Full-stack web applications
-- Mobile app development
-- Machine learning & data analysis
-- Backend APIs & cloud infrastructure
-- AI-powered tooling and automation
+![](https://github-readme-activity-graph.vercel.app/graph?username=namanNagelia&theme=tokyo-night)
