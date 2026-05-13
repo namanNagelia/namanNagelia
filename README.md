@@ -62,3 +62,5 @@
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 
 ![](https://ghchart.rshah.org/namanNagelia)
+
+[![Naman's GitHub stats](https://github-readme-stats.vercel.app/api?username=namannagelia&show_icons=true&count_private=false&hide_border=true&theme=dark&bg_color=0,232A56,324B7C&icon_color=3A54FD&text_color=CADBFF)](https://github.com/anuraghazra/github-readme-stats)
