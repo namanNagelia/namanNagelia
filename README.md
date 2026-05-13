@@ -61,4 +61,4 @@
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 
-![](https://github-readme-activity-graph.vercel.app/graph?username=namanNagelia&theme=tokyo-night)
+![](https://github-readme-streak-stats.herokuapp.com/?user=namanNagelia&theme=tokyonight&hide_border=false)
